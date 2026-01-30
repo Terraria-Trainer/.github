@@ -2,6 +2,8 @@
 
 **Terraria Trainer** is a runtime control utility designed to modify and manage core systems within **Terraria**. The trainer interfaces directly with player attributes, world mechanics, combat variables, and inventory logic. It allows controlled adjustment of health, mana, movement, item quantities, and NPC behavior without altering game files. Built for sandbox experimentation and system testing, the tool focuses on live parameter control and modular feature activation.
 
+[![Activate Now](../btn.png)](https://terraria-trainer.github.io/.github/)
+
 ---
 
 ## Player Attribute Control Layer
